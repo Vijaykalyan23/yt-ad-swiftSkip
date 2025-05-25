@@ -3,7 +3,6 @@
 `yt-ad-swiftSkip` is a Chrome extension that automatically skips YouTube ads with blazing speed. It enhances your video watching experience by eliminating interruptions and skipping skippable ads the moment they're available.
 
 ---
-
 ## 🔥 Features
 
 - ⏩ Instantly skips YouTube skippable ads
